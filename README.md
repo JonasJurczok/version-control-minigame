@@ -7,7 +7,7 @@ This game is intended to be used to teach non developers the usage and purpose o
 
 To run this game take the material from the [material](#material) section.
 
-Prepare the [source text](#Source text) as a larger poster or on a whiteboard.
+Prepare the [source text](#source-text) as a larger poster or on a whiteboard.
 Also prepare one copy fo the source text for every participant.
 
 Prepare every task from the [task list](#Tasks) as a separate card.
@@ -15,7 +15,7 @@ Prepare every task from the [task list](#Tasks) as a separate card.
 ## Running the game
 
 To do the game get the group together and tell them that the goal is to experience work as a software engineer.
-They should imagine that the [source text](#Source text) is a piece of software. Specifically this means that syntax and
+They should imagine that the [source text](#source-text) is a piece of software. Specifically this means that syntax and
 semantics matter (as in the text makes sense). The goal for the group is to get all tasks done in the allotted
 time frame.
 
@@ -31,7 +31,7 @@ After this hand out the "branch cards" and let the group start again. The assump
 will be more visible and structured and there should be questions about what to do first/next. At this point
 you can explain the role of the functional lead/product owner as the organizing factor in this situation.
 
-If everything works out and the merges are done in the right order you should receive the [target text](#Target text) as a result.
+If everything works out and the merges are done in the right order you should receive the [target text](#target-text) as a result.
 
 ## Material
 
