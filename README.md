@@ -7,10 +7,9 @@ This game is intended to be used to teach non developers the usage and purpose o
 
 To run this game take the material from the [material](#material) section.
 
-Prepare the [source text](#source-text) as a larger poster or on a whiteboard.
-Also prepare one copy fo the source text for every participant.
-
-Prepare every task from the [task list](#Tasks) as a separate card.
+* Prepare the [source text](#source-text) as a larger poster or on a whiteboard.
+* Prepare one copy fo the source text for every participant.
+* Prepare every task from the [task list](#Tasks) as a separate card.
 
 ## Running the game
 
