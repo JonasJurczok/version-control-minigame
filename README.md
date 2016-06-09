@@ -11,6 +11,8 @@ To run this game take the material from the [material](#material) section.
 * Prepare one copy fo the source text for every participant.
 * Prepare every task from the [task list](#Tasks) as a separate card.
 
+![Task cards](img/task-cards.jpg)
+
 ## Running the game
 
 To do the game get the group together and tell them that the goal is to experience work as a software engineer.
